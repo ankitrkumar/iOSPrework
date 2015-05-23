@@ -1,11 +1,6 @@
 This is the source repository for [iOS
 Prework](http://prework.flatironschool.com/ios-development/) at The Flatiron School. Enjoy!
 
-License
-=======
-
-Licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/ "Creative Commons License Page") License.
-
 
 Quora Answer for my reference:(Author Joe Burgess)
 <br>
@@ -51,3 +46,11 @@ iOS devices have a whole host of hardware to play with. To get going I would jus
 
 Core Animation<br>
 Pretty much the point of Core Animation is for the cool factor. That's why I put it last in this list. I don't find that animation really adds much in terms of "features" but I think it's pretty cool and can be a lot of fun. The most important stuff to learn here when/how to use the transitions from UIView to UIView.
+<br>
+<br>
+
+
+License
+=======
+
+Licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/ "Creative Commons License Page") License.
